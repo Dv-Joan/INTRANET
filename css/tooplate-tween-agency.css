@@ -543,6 +543,7 @@ button:focus:not(:focus-visible) {
 .pricing-plan {
   padding: 60px 40px 40px 40px;
   position: relative;
+  border-radius: 7px;
 }
 
 .pricing-header {
